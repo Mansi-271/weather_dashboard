@@ -1,4 +1,5 @@
 # 🌤️ Weather & Emergency Info Dashboard
+# Website Url : https://mansi-271.github.io/weather_dashboard/
 
 A simple, responsive web app built using **HTML, CSS, and JavaScript** that displays live weather information and important emergency contacts.
 
@@ -19,4 +20,5 @@ A simple, responsive web app built using **HTML, CSS, and JavaScript** that disp
 ## 🧩 How to Run Locally
 1. Clone the repository  
    ```bash
-   git clone https://github.com/yourusername/weather-dashboard.git
+   git clone https://github.com/Mansi-271/weather_dashboard.git
+
